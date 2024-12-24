@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EY_Test</name>
+    </assembly>
+    <members>
+        <member name="M:EY_Test.Controllers.UserManagerController.GetJWTToken(System.String)">
+            <summary>
+            取得JWT Token
+            </summary>
+            <param name="email">使用者信箱</param>
+            <returns>JWT token</returns>
+        </member>
+        <member name="M:EY_Test.Controllers.UserManagerController.GetUsers">
+            <summary>
+            取得使用者
+            </summary>
+            <returns>使用者List</returns>
+        </member>
+        <member name="M:EY_Test.Controllers.UserManagerController.GetUser(System.Int32)">
+            <summary>
+            取出特定使用者
+            </summary>
+            <param name="id">使用者id</param>
+            <returns>使用者資料</returns>
+        </member>
+        <member name="M:EY_Test.Controllers.UserManagerController.CreateUser(EY_Test.Entity.User)">
+            <summary>
+            建立使用者
+            </summary>
+            <param name="user">資料</param>
+            <returns>user資料</returns>
+        </member>
+        <member name="M:EY_Test.Controllers.UserManagerController.UpdateUser(System.Int32,EY_Test.Entity.User)">
+            <summary>
+            修改使用者資料
+            </summary>
+            <param name="id">usrtid</param>
+            <param name="user">使用者資料</param>
+            <returns>Object User</returns>
+        </member>
+        <member name="M:EY_Test.Controllers.UserManagerController.DeleteUser(System.Int32)">
+            <summary>
+            刪除使用者
+            </summary>
+            <param name="id">使用者id</param>
+            <returns></returns>
+        </member>
+        <member name="M:EY_Test.Services.UserService.UserExistsById(System.Int32)">
+            <summary>
+            判斷使用者是否存在by id
+            </summary>
+            <param name="id">使用者id</param>
+            <returns>true/false</returns>
+        </member>
+        <member name="M:EY_Test.Services.UserService.UserExistsByName(System.String)">
+            <summary>
+            判斷使用者是否存在by Name
+            </summary>
+            <param name="name">使用者Name</param>
+            <returns>true/false</returns>
+        </member>
+    </members>
+</doc>

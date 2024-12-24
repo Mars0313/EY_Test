@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EY_Test.props" />
+</Project>
