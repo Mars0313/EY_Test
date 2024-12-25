@@ -104,7 +104,7 @@ namespace EY_Test.Controllers
         /// <summary>
         /// 修改使用者資料
         /// </summary>
-        /// <param name="id">usrtid</param>
+        /// <param name="id">userid</param>
         /// <param name="user">使用者資料</param>
         /// <returns>Object User</returns>
         [HttpPut("{id}")]

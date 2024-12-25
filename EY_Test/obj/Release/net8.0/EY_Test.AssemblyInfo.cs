@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EY_Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7eed073dc102fbc92c2d973844dfe99ed482c7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("EY_Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EY_Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

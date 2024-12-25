@@ -66,7 +66,7 @@ namespace EY_Test.Services
             {
                 if (!UserExistsById(user.Id))
                 {
-                    throw new MyException(400, "找不到使用者id");
+                    throw new MyException(400, "傳入參數有誤");
                 }
                 else
                 {

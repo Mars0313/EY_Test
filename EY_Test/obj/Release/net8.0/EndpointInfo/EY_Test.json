@@ -171,7 +171,7 @@
           {
             "name": "id",
             "in": "path",
-            "description": "usrtid",
+            "description": "userid",
             "required": true,
             "style": "simple",
             "schema": {
@@ -349,7 +349,7 @@
     "securitySchemes": {
       "Bearer": {
         "type": "apiKey",
-        "description": "請輸入JWT Token",
+        "description": "請輸入JWT Token: \"Bearer {JWT Token}\"",
         "name": "Authorization",
         "in": "header"
       }

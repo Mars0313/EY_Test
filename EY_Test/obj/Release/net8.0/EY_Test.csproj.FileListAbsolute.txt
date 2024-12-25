@@ -1,5 +1,4 @@
 C:\Users\a0913\OneDrive\桌面\RobertEY_Test\EY_Test\EY_Test\bin\Release\net8.0\appsettings.Development.json
-C:\Users\a0913\OneDrive\桌面\RobertEY_Test\EY_Test\EY_Test\bin\Release\net8.0\appsettings.json
 C:\Users\a0913\OneDrive\桌面\RobertEY_Test\EY_Test\EY_Test\bin\Release\net8.0\EY_Test.staticwebassets.endpoints.json
 C:\Users\a0913\OneDrive\桌面\RobertEY_Test\EY_Test\EY_Test\bin\Release\net8.0\EY_Test.exe
 C:\Users\a0913\OneDrive\桌面\RobertEY_Test\EY_Test\EY_Test\bin\Release\net8.0\EY_Test.deps.json
@@ -152,3 +151,4 @@ C:\Users\a0913\OneDrive\桌面\RobertEY_Test\EY_Test\EY_Test\obj\Release\net8.0\
 C:\Users\a0913\OneDrive\桌面\RobertEY_Test\EY_Test\EY_Test\obj\Release\net8.0\EY_Test.pdb
 C:\Users\a0913\OneDrive\桌面\RobertEY_Test\EY_Test\EY_Test\obj\Release\net8.0\EY_Test.genruntimeconfig.cache
 C:\Users\a0913\OneDrive\桌面\RobertEY_Test\EY_Test\EY_Test\obj\Release\net8.0\ref\EY_Test.dll
+C:\Users\a0913\OneDrive\桌面\RobertEY_Test\EY_Test\EY_Test\obj\Release\net8.0\EY_Test.sourcelink.json
